@@ -1,0 +1,14 @@
+<!ELEMENT ethics (#PCDATA | title | paragraph | guidelines | references)*>
+  <!ELEMENT title (#PCDATA)>
+  <!ELEMENT guidelines (#PCDATA | heading1 | heading2 | paragraph)*>
+  <!ELEMENT references (heading1, paragraph+)>
+  <!ELEMENT heading1 (#PCDATA)>
+  <!ELEMENT heading2 (#PCDATA)>
+  <!ELEMENT paragraph (#PCDATA | bullet | source | link)*>
+  <!ELEMENT bullet (#PCDATA)>
+  <!ELEMENT source (#PCDATA)>
+  <!ELEMENT link (html:a)>
+  <!ELEMENT html:a EMPTY>
+  <!ATTLIST paragraph type (ethicsintroduction|guidelinesintroduction|content|reference) #IMPLIED>
+  <!ATTLIST ethics xmlns:html CDATA #FIXED "http://www.w3.org/1999/xhtml">
+  <!ATTLIST html:a href CDATA #REQUIRED>

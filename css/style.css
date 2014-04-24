@@ -1,0 +1,184 @@
+/* Layout */
+.container {
+	width: 960px;
+	margin: 0 auto;
+}
+
+/* Header */
+header {
+	background-color: #303441;
+	height: 90px;
+	border-bottom: 5px solid #FF6600;
+}
+
+.logo {
+	margin-top: 25px;
+	float: left;
+	color: white;
+	font-weight: 100;
+}
+
+.logo span {
+	color: #FF6600; 
+}
+
+/* Navigation */
+nav ul {
+	float: right;
+	margin-top: 40px;
+}
+
+nav ul li {
+	display: inline;
+	text-transform: uppercase;
+	padding: 0 15;x§
+}
+
+nav ul li a {
+	color: white;
+	text-decoration: none;
+}
+nav ul li a:hover {
+	color: #FF6600; 
+}
+
+/* Hero */
+.hero {
+	background: url(../images/Bitcoin-Wallpapers-16.jpg) center; 
+	height: 60%;
+	display: table;
+	width: 100%;
+	border-bottom: 5px solid #FF6600;
+}
+
+.hero .container {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.hero h2 {
+	color: white;
+	font-style: italic;
+	font-size: 3.750em; /* 60px */
+	width: 900px;
+	margin: 0 auto;
+	background: rgba(48, 52, 65, .7);
+	padding: 0.5em;
+}
+
+/* Gear Hero */
+.gear_hero {
+	background: url(../images/circuit_board.jpg) center; 
+	height: 60%;
+	display: table;
+	width: 100%;		
+	border-bottom: 5px solid #FF6600;
+}
+
+.gear_hero .container {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.gear_hero h2 {
+	color: white;
+	font-style: italic;
+	font-size: 3.750em; /* 60px */
+	width: 900px;
+	margin: 0 auto;
+	background: rgba(48, 52, 65, .7);
+	padding: 0.5em;
+	text-align: center;
+}
+
+/* Config Hero */
+.config_hero {
+	background: url(../images/config.jpg) center; 
+	height: 60%;
+	display: table;
+	width: 100%;		
+	border-bottom: 5px solid #FF6600;
+}
+
+.config_hero .container {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.config_hero h2 {
+	color: white;
+	font-style: italic;
+	font-size: 3.750em; /* 60px */
+	width: 900px;
+	margin: 0 auto;
+	background: rgba(48, 52, 65, .7);
+	padding: 0.5em;
+	text-align: center;
+}
+
+/* Intro Text */
+.intro {
+	margin: 40px;
+}
+
+.intro p {
+	font-size: 2.150em;
+	font-weight: 100;
+}
+
+.statement {
+	margin: 40px;
+}
+
+.statement p {
+	font-size: 1.199em;	
+	font-weight: 100;
+}
+
+.statement h3 {	
+	font-size: 1.4em;
+}
+
+.statement img {
+	padding-top: 40px;
+	height: 20%;
+	display: block;
+	margin: 0 auto;
+	float: left;
+	padding-bottom: 0px;
+	
+}	
+
+/* FOOTER */
+footer {
+	background: #303341;
+	width: 100%;
+	min-height: 235px;
+	border-top: 5px solid #FF6600;
+	padding: 40px 0;
+	clear: both;
+}
+
+.footer-item {
+	margin: 0 auto;
+	width: 50%;
+  	padding: 0.5%;
+	}
+
+.footer-item h4 {
+	font-weight: bold;
+	font-size: 1.125em; /* 18px */
+	text-align: center;
+}
+
+.footer-item p {
+	line-height: 1.5em;
+	margin: 15px 0;
+	font-size: 0.9em; /* 12px */
+	text-align: center;
+}
+
+.footer-item img {
+	display: block;
+    margin: 0 auto;		
+}

@@ -1,0 +1,91 @@
+ethics
+{
+margin-top:50px;
+margin-bottom:50px;
+margin-right:200px;
+margin-left:200px;
+background-color:#B8B8B8;
+ background-image: url(ethics.jpg);
+  background-position:center top;
+  background-repeat:no-repeat;
+font-family:verdana, arial;
+}
+title 
+{
+font-size: 200%;
+font-family: verdana;
+color:#043C70;
+padding-top:240px;
+padding-bottom:15px;
+padding-right:15px;
+padding-left:15px;
+text-align:center;
+display:block;
+}
+heading1
+{
+font-size:150%;
+font-family:verdana;
+color:#043C70;
+padding-top:5px;
+padding-bottom:5px;
+padding-right:50px;
+padding-left:50px;
+text-align:left;
+display:block;
+}
+heading2
+{
+font-size:medium;
+font-family:arial;
+font-weight: bold;
+color:#043C70;
+padding-top:5px;
+padding-right:50px;
+padding-left:50px;
+text-align:left;
+display:block;
+}
+paragraph
+{
+display:block;
+font-family:arial;
+color:#000000;
+padding-top:5px;
+padding-bottom:25px;
+padding-right:50px;
+padding-left:50px;
+font-size:medium;
+font-style:arial;
+}
+bullet
+{
+display:list-item;
+text-indent: 50px;
+padding-top: 10px;
+font-style:arial;
+list-style: lower-alpha; 
+list-style: disc; 
+list-style-position:inside;
+font-size:medium;
+color:#000000;
+}
+source
+{
+font-style:italic;
+font-family:arial;
+color:#000000;
+font-size:medium;
+}
+link
+{
+font-style: arial;
+color:#000000;
+font-size:medium;
+}
+a:link:after, a:visited:after
+{
+content:attr(href); 
+font-size:medium;
+display:line; 
+}

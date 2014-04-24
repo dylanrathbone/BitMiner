@@ -1,0 +1,106 @@
+<?xml version ="1.0" encoding ="UTF-8" standalone ="no"?>
+<!DOCTYPE ethics SYSTEM "ethicalcommunication.dtd">
+<?xml-stylesheet type="text/css" href="ethicalcommunication.css"?>
+<ethics xmlns:html="http://www.w3.org/1999/xhtml">
+	<title>
+		Ethical Communication for the Technical Writer
+	</title>
+	<paragraph type="ethicsintroduction">
+		Ethical communication is “fundamental to responsible thinking, decision making, and the development of relationships and communities within and across contexts, cultures, channels, and media” (NCA Legislative Council 1999). The following guidelines will help you make ethical decisions in your career.
+	</paragraph>
+	<guidelines>
+		<heading1>
+			Guidelines for Ethical Conduct in Communication
+		</heading1>
+			<paragraph type="guidelinesintroduction">
+				These guidelines are sourced from Mike Markel’s <source>Technical Communication</source> (Markel 2012, pp.34-36) and the Society for Technical Communication’s Ethical Principles (1998). They have been augmented by other sources. 
+			</paragraph>	
+		<heading2>
+			1: Obey the Law
+		</heading2>
+			<paragraph type="content">
+				Slander or libel can result in sanctions by governing bodies (such as the STC) or even criminal penalties (Fontana 2014). Think carefully before you write.
+				Observe the laws governing intellectual property (Markel 2012):
+					<bullet>Observe copyright</bullet>	
+					<bullet>Use trademarks (™ and ®) correctly</bullet>
+					<bullet>Observe product liability law</bullet>	
+			</paragraph>
+		<heading2>
+				2: Social Media, Ethics Resources, and the Workplace
+		</heading2>
+			<paragraph type="content">
+				The Society for Human Resource Management (2012) defines social media as “all means of communicating or posting information or content of any sort on the Internet, including to your own or someone else’s web log or blog, journal or diary, personal website, social networking or affinity website, web bulletin board or a chat room, whether or not associated or affiliated with [your employer], as well as any other form of electronic communication.” Study your company’s social media policies to see what restrictions are in place (Markel 2012).
+			</paragraph>
+		<heading2>
+				4: Tell the Truth
+		</heading2>
+			<paragraph type="content">
+				The National Communication Association (1999) advocates “truthfulness, accuracy, honesty, and reason as essential to the integrity of communication.”
+			</paragraph>
+		<heading2>
+				5: Respect Confidentiality
+		</heading2>
+			<paragraph type="content">
+				Respect the confidentiality of your company and its clients (Society for Technical Communication 1998). Always obtain a release before disclosing confidential information. 
+			</paragraph>
+		<heading2>	
+				6: Don’t Mislead Your Readers
+		</heading2>	
+			<paragraph type="content">
+				Avoid “spinning the truth” (Putnam 2004)  Lying by omission is still a lie. These three rules will help prevent from from misleading your reader (Markel 2012): 
+					<bullet>
+						Only communicate accurate information 
+					</bullet>
+					<bullet>
+						Do not exaggerate
+					</bullet>
+					<bullet>
+						Avoid euphemisms. They lead to misunderstanding
+					</bullet>
+			</paragraph>
+		<heading2>
+				7: Avoid Discriminatory Language
+			</heading2>
+				<paragraph type="content">
+					Professional communication should always be in good taste (International Association for Business Communicators 2014). Don’t use language that discriminates against people based on race, sexuality, mental capacities and so forth (Markel 2012).
+				</paragraph>
+			<heading2>	
+				8: Acknowledge Assistance from Others
+			</heading2>
+				<paragraph type="content">
+					Avoid plagiarism by citing sources and acknowledging collaborators (Markel 2012). 
+				</paragraph>
+			<heading2>
+				9: Be a Responsible Writer
+			</heading2>
+				<paragraph type="content">
+					Ensure clarity and quality in your communication. Do not bury important information in footnotes (Markel 2012). Important information should be easily visible to the reader. Continue your professional development by researching and enacting current best practice. 
+				</paragraph>
+	</guidelines>
+			<references>
+				<heading1>
+					References
+				</heading1>
+						<paragraph type="reference">
+							Fontana,  P. (2014) ‘What Are Violations of Ethical Communication?’, <source>Business &amp; Entrepeneurship - azcentral.com</source> [online], available: <link><html:a href="http://yourbusiness.azcentral.com/violations-ethical-communication-12080.html#author"></html:a></link> [accessed 24 Feb 2014]
+						</paragraph>
+						<paragraph type="reference">
+							International Association for Business Communicators (2014) ‘IABC Code of Ethics for Professional Communicators’, <source>International Association for Business Communicators</source> [online], available: <link><html:a href="http://www.iabc.com/about/code.htm"></html:a></link> [accessed 24 Feb 2014]
+						</paragraph>
+						<paragraph type="reference">
+							Markel, M. (2012) <source>Technical Communication, 10th ed.</source>, Boston: Bedford/St. Martin's
+						</paragraph>
+						<paragraph type="reference">
+							NCA Legislative Council (1999) ‘NCA Credo for Ethical Communication’, <source>Ethical Statements Platform</source> [online], available: <link><html:a href="http://www.natcom.org/uploadedFiles/About_NCA/Leadership_and_Governance/Public_Policy_Platform/PDF-PolicyPlatform-NCA_Credo_for_Ethical_Communication.pdf"></html:a></link> [accessed 21 Feb 2014]
+						</paragraph>
+						<paragraph type="reference">
+							Putnam, M.S. (2004) ‘Ethical Communications: Spinning the Truth’, <source>Character Training International</source> [online], available: <link><html:a href="http://www.character-ethics.org/articles/spinningthetruth.htm"></html:a></link> [accessed 24 Feb 2014]
+						</paragraph>
+						<paragraph type="reference">
+							Society for Human Resource Management (2012) ‘Social Media Policy’, <source>Society for Human Resource Management</source> [online], available: <link><html:a href="https://www.shrm.org/templatestools/samples/policies/pages/socialmediapolicy.aspx"></html:a></link> [accessed 24 Feb 2014]
+						</paragraph>
+						<paragraph type="reference">
+							Society for Technical Communication (1998) ‘STC's Ethical Principles for Technical Communicators’, <source>Society for Technical Communication</source> [online], available: <link><html:a href="http://archive.stc.org/about/ethical-principles-for-technical-communicators.asp"></html:a></link> [accessed 23 Feb 2014] 
+						</paragraph>							
+			</references>
+</ethics>
